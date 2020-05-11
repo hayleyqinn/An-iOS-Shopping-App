@@ -1,0 +1,471 @@
+
+/* Class = "UINavigationItem"; title = "选择车型"; ObjectID = "0Ar-ij-J7U"; */
+"0Ar-ij-J7U.title" = "选择车型";
+
+/* Class = "UILabel"; text = "上次保养日期："; ObjectID = "1C9-8R-8zR"; */
+"1C9-8R-8zR.text" = "上次保养日期：";
+
+/* Class = "UINavigationItem"; title = "预约信息"; ObjectID = "1on-IR-OyQ"; */
+"1on-IR-OyQ.title" = "预约信息";
+
+/* Class = "UISearchBar"; placeholder = "请输入配件名称或配件号"; ObjectID = "2U9-8w-vC3"; */
+"2U9-8w-vC3.placeholder" = "请输入配件名称或配件号";
+
+/* Class = "UINavigationItem"; title = "我的订单"; ObjectID = "2ux-bt-RtX"; */
+"2ux-bt-RtX.title" = "我的订单";
+
+/* Class = "UILabel"; text = "车牌号："; ObjectID = "3MX-m8-caf"; */
+"3MX-m8-caf.text" = "车牌号：";
+
+/* Class = "UIBarButtonItem"; title = "商店列表"; ObjectID = "3rR-Wn-D1T"; */
+"3rR-Wn-D1T.title" = "商店列表";
+
+/* Class = "UILabel"; text = "4.9"; ObjectID = "4CX-Xn-3b7"; */
+"4CX-Xn-3b7.text" = "4.9";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "4Ey-Kj-quX"; */
+"4Ey-Kj-quX.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "预约日期："; ObjectID = "4af-cB-Ji9"; */
+"4af-cB-Ji9.text" = "预约日期：";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4u5-fb-0ht"; */
+"4u5-fb-0ht.text" = "Label";
+
+/* Class = "UILabel"; text = "状态："; ObjectID = "4zK-wd-qKP"; */
+"4zK-wd-qKP.text" = "状态：";
+
+/* Class = "UINavigationItem"; title = "我的代购车"; ObjectID = "5ft-yb-ad4"; */
+"5ft-yb-ad4.title" = "我的代购车";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "6Ej-xz-Cju"; */
+"6Ej-xz-Cju.text" = "＊";
+
+/* Class = "UILabel"; text = "金额"; ObjectID = "6Mp-jQ-WdV"; */
+"6Mp-jQ-WdV.text" = "金额";
+
+/* Class = "UILabel"; text = "为什么要填写车架号？"; ObjectID = "6yq-oh-M9o"; */
+"6yq-oh-M9o.text" = "为什么要填写车架号？";
+
+/* Class = "UILabel"; text = "丰田凯美瑞 2.0L 2015年"; ObjectID = "7QC-7e-hh0"; */
+"7QC-7e-hh0.text" = "丰田凯美瑞 2.0L 2015年";
+
+/* Class = "UINavigationItem"; title = "客服"; ObjectID = "7uJ-Vm-R9z"; */
+"7uJ-Vm-R9z.title" = "客服";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "9D2-FU-CWZ"; */
+"9D2-FU-CWZ.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "230.00"; ObjectID = "9j6-Ha-KVc"; */
+"9j6-Ha-KVc.text" = "230.00";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "A1x-rt-elE"; */
+"A1x-rt-elE.normalTitle" = "取消";
+
+/* Class = "UINavigationItem"; title = "我的爱车"; ObjectID = "Ae1-zz-bsc"; */
+"Ae1-zz-bsc.title" = "我的爱车";
+
+/* Class = "UINavigationItem"; title = "收货地址"; ObjectID = "ArD-AV-2Aw"; */
+"ArD-AV-2Aw.title" = "收货地址";
+
+/* Class = "UIButton"; normalTitle = "选择区域"; ObjectID = "ArF-pb-1Gy"; */
+"ArF-pb-1Gy.normalTitle" = "选择区域";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "At4-4p-mCf"; */
+"At4-4p-mCf.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "BFC-J4-dxt"; */
+"BFC-J4-dxt.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "手机号码："; ObjectID = "BHs-xV-kn0"; */
+"BHs-xV-kn0.text" = "手机号码：";
+
+/* Class = "UILabel"; text = "限制500字以内"; ObjectID = "BUk-NK-fQN"; */
+"BUk-NK-fQN.text" = "限制500字以内";
+
+/* Class = "UIButton"; normalTitle = "查询"; ObjectID = "BVj-Bb-vgX"; */
+"BVj-Bb-vgX.normalTitle" = "查询";
+
+/* Class = "UINavigationItem"; title = "美容护理"; ObjectID = "Bb3-rS-L8l"; */
+"Bb3-rS-L8l.title" = "美容护理";
+
+/* Class = "UINavigationItem"; title = "预约记录"; ObjectID = "BdD-jQ-ik4"; */
+"BdD-jQ-ik4.title" = "预约记录";
+
+/* Class = "UINavigationItem"; title = "个人信息"; ObjectID = "C06-4P-QYc"; */
+"C06-4P-QYc.title" = "个人信息";
+
+/* Class = "UITextField"; placeholder = "为了准备找到所需配件，请输入17位车架号"; ObjectID = "D5x-ee-6ra"; */
+"D5x-ee-6ra.placeholder" = "为了准备找到所需配件，请输入17位车架号";
+
+/* Class = "UILabel"; text = "燃油类型"; ObjectID = "DBu-TB-w3s"; */
+"DBu-TB-w3s.text" = "燃油类型";
+
+/* Class = "UINavigationItem"; title = "商品清单"; ObjectID = "DCY-QD-WsY"; */
+"DCY-QD-WsY.title" = "商品清单";
+
+/* Class = "UILabel"; text = "方法二："; ObjectID = "DFe-su-lA0"; */
+"DFe-su-lA0.text" = "方法二：";
+
+/* Class = "UIButton"; normalTitle = "选择车型"; ObjectID = "DMl-8l-udm"; */
+"DMl-8l-udm.normalTitle" = "选择车型";
+
+/* Class = "UILabel"; text = "方法一："; ObjectID = "DX2-8I-TT9"; */
+"DX2-8I-TT9.text" = "方法一：";
+
+/* Class = "UILabel"; text = "总量"; ObjectID = "Dqa-qb-pUM"; */
+"Dqa-qb-pUM.text" = "总量";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dsz-1F-GAd"; */
+"Dsz-1F-GAd.text" = "Label";
+
+/* Class = "UILabel"; text = "车辆"; ObjectID = "E2Z-wE-jKs"; */
+"E2Z-wE-jKs.text" = "车辆";
+
+/* Class = "UIBarButtonItem"; title = "退换货流程"; ObjectID = "E7k-if-9ff"; */
+"E7k-if-9ff.title" = "退换货流程";
+
+/* Class = "UILabel"; text = "邮编："; ObjectID = "EOx-df-PJs"; */
+"EOx-df-PJs.text" = "邮编：";
+
+/* Class = "UILabel"; text = "地区："; ObjectID = "ETx-sx-Plu"; */
+"ETx-sx-Plu.text" = "地区：";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "F0z-g6-dHL"; */
+"F0z-g6-dHL.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "    保养项目"; ObjectID = "FRM-y1-xsl"; */
+"FRM-y1-xsl.text" = "    保养项目";
+
+/* Class = "UILabel"; text = "时间段:"; ObjectID = "Fgu-4f-7YK"; */
+"Fgu-4f-7YK.text" = "时间段:";
+
+/* Class = "UIButton"; normalTitle = "预约"; ObjectID = "Fjt-wV-mPH"; */
+"Fjt-wV-mPH.normalTitle" = "预约";
+
+/* Class = "UIButton"; normalTitle = "去保养"; ObjectID = "G7n-is-QvY"; */
+"G7n-is-QvY.normalTitle" = "去保养";
+
+/* Class = "UILabel"; text = "填写车架号"; ObjectID = "G94-MK-cUM"; */
+"G94-MK-cUM.text" = "填写车架号";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "Grx-yO-zVW"; */
+"Grx-yO-zVW.text" = "＊";
+
+/* Class = "UINavigationItem"; title = "我的收藏"; ObjectID = "HLm-PT-lh1"; */
+"HLm-PT-lh1.title" = "我的收藏";
+
+/* Class = "UILabel"; text = "用户名"; ObjectID = "HnX-6y-EQ5"; */
+"HnX-6y-EQ5.text" = "用户名";
+
+/* Class = "UILabel"; text = "查找配件"; ObjectID = "IDs-oN-ccS"; */
+"IDs-oN-ccS.text" = "查找配件";
+
+/* Class = "UILabel"; text = "增加项目："; ObjectID = "IJ7-Cz-Z1E"; */
+"IJ7-Cz-Z1E.text" = "增加项目：";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "IKi-mr-prK"; */
+"IKi-mr-prK.title" = "我的";
+
+/* Class = "UILabel"; text = "收货人："; ObjectID = "IUO-Lh-aXk"; */
+"IUO-Lh-aXk.text" = "收货人：";
+
+/* Class = "UINavigationItem"; title = "加油历史"; ObjectID = "IYD-W3-fMZ"; */
+"IYD-W3-fMZ.title" = "加油历史";
+
+/* Class = "UILabel"; text = "美容护理"; ObjectID = "IYV-Ix-rXb"; */
+"IYV-Ix-rXb.text" = "美容护理";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "Igd-6l-QVy"; */
+"Igd-6l-QVy.text" = "＊";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "JAj-zY-6sG"; */
+"JAj-zY-6sG.title" = "首页";
+
+/* Class = "UILabel"; text = "当前公里数："; ObjectID = "KLj-pe-pkC"; */
+"KLj-pe-pkC.text" = "当前公里数：";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "Mst-ao-w0j"; */
+"Mst-ao-w0j.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "每升"; ObjectID = "ND1-1w-V3g"; */
+"ND1-1w-V3g.text" = "每升";
+
+/* Class = "UIButton"; normalTitle = "爱车档案"; ObjectID = "NXF-8r-M71"; */
+"NXF-8r-M71.normalTitle" = "爱车档案";
+
+/* Class = "UILabel"; text = "晒单"; ObjectID = "O4H-8Y-2za"; */
+"O4H-8Y-2za.text" = "晒单";
+
+/* Class = "UILabel"; text = "当前公里数"; ObjectID = "OJU-Po-tAF"; */
+"OJU-Po-tAF.text" = "当前公里数";
+
+/* Class = "UILabel"; text = "车型："; ObjectID = "Og9-6x-EMf"; */
+"Og9-6x-EMf.text" = "车型：";
+
+/* Class = "UIButton"; normalTitle = "1000km"; ObjectID = "PFV-w6-AbV"; */
+"PFV-w6-AbV.normalTitle" = "1000km";
+
+/* Class = "UIBarButtonItem"; title = "添加新地址"; ObjectID = "PI8-UH-RW8"; */
+"PI8-UH-RW8.title" = "添加新地址";
+
+/* Class = "UINavigationItem"; title = "我预定的商品"; ObjectID = "PJy-0o-1Ug"; */
+"PJy-0o-1Ug.title" = "我预定的商品";
+
+/* Class = "UIButton"; normalTitle = "排序"; ObjectID = "PTT-aV-yck"; */
+"PTT-aV-yck.normalTitle" = "排序";
+
+/* Class = "UINavigationItem"; title = "预约信息"; ObjectID = "PgY-kF-LnQ"; */
+"PgY-kF-LnQ.title" = "预约信息";
+
+/* Class = "UIButton"; normalTitle = "加油历史"; ObjectID = "RHS-Lk-Zgm"; */
+"RHS-Lk-Zgm.normalTitle" = "加油历史";
+
+/* Class = "UILabel"; text = "上牌日期："; ObjectID = "RmQ-t2-rAW"; */
+"RmQ-t2-rAW.text" = "上牌日期：";
+
+/* Class = "UILabel"; text = "店铺名称店铺名称店铺名称"; ObjectID = "SLy-s6-5ma"; */
+"SLy-s6-5ma.text" = "店铺名称店铺名称店铺名称";
+
+/* Class = "UILabel"; text = "前后两次都加油加满时，统计数据才更准确！"; ObjectID = "SWO-VR-tg1"; */
+"SWO-VR-tg1.text" = "前后两次都加油加满时，统计数据才更准确！";
+
+/* Class = "UILabel"; text = "工时费："; ObjectID = "SpD-Kg-6MG"; */
+"SpD-Kg-6MG.text" = "工时费：";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "TO2-tW-BgS"; */
+"TO2-tW-BgS.text" = "＊";
+
+/* Class = "UILabel"; text = "加油记录"; ObjectID = "Uux-6G-4EE"; */
+"Uux-6G-4EE.text" = "加油记录";
+
+/* Class = "UIBarButtonItem"; title = "退换货流程"; ObjectID = "Vf1-tR-RZQ"; */
+"Vf1-tR-RZQ.title" = "退换货流程";
+
+/* Class = "UILabel"; text = "至"; ObjectID = "Vr4-Ma-Oql"; */
+"Vr4-Ma-Oql.text" = "至";
+
+/* Class = "UILabel"; text = "工时费："; ObjectID = "W5a-55-z0O"; */
+"W5a-55-z0O.text" = "工时费：";
+
+/* Class = "UINavigationItem"; title = "美容护理"; ObjectID = "WBK-h2-VPQ"; */
+"WBK-h2-VPQ.title" = "美容护理";
+
+/* Class = "UINavigationItem"; title = "确认订单"; ObjectID = "WPf-C1-Tg5"; */
+"WPf-C1-Tg5.title" = "确认订单";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "Wbd-jc-3rH"; */
+"Wbd-jc-3rH.text" = "密码";
+
+/* Class = "UILabel"; text = "总价：¥200.00"; ObjectID = "WcS-Fy-pla"; */
+"WcS-Fy-pla.text" = "总价：¥200.00";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "X00-QU-vSq"; */
+"X00-QU-vSq.normalTitle" = "登录";
+
+/* Class = "UITabBarItem"; title = "我的爱车"; ObjectID = "X5O-YD-LtP"; */
+"X5O-YD-LtP.title" = "我的爱车";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XYT-Zx-Ors"; */
+"XYT-Zx-Ors.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y0P-7h-4lR"; */
+"Y0P-7h-4lR.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "客服"; ObjectID = "YyL-Jt-r4f"; */
+"YyL-Jt-r4f.title" = "客服";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "aGQ-m8-RJR"; */
+"aGQ-m8-RJR.text" = "＊";
+
+/* Class = "UITextField"; placeholder = "请输入当前行驶公里数"; ObjectID = "ayD-zh-puu"; */
+"ayD-zh-puu.placeholder" = "请输入当前行驶公里数";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "ayh-rf-b1h"; */
+"ayh-rf-b1h.text" = "＊";
+
+/* Class = "UILabel"; text = "附近维修店"; ObjectID = "bcr-xs-RFN"; */
+"bcr-xs-RFN.text" = "附近维修店";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "bfS-pz-chE"; */
+"bfS-pz-chE.normalTitle" = "保存";
+
+/* Class = "UINavigationItem"; title = "个人中心"; ObjectID = "bqv-G6-vaF"; */
+"bqv-G6-vaF.title" = "个人中心";
+
+/* Class = "UIViewController"; title = "GoodDetailPic"; ObjectID = "byO-20-Yqt"; */
+"byO-20-Yqt.title" = "GoodDetailPic";
+
+/* Class = "UILabel"; text = "详细地址："; ObjectID = "cCK-y1-4hk"; */
+"cCK-y1-4hk.text" = "详细地址：";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dS4-tD-Vdp"; */
+"dS4-tD-Vdp.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "选择维修店"; ObjectID = "e5i-4d-QI0"; */
+"e5i-4d-QI0.title" = "选择维修店";
+
+/* Class = "UIButton"; normalTitle = "找回密码"; ObjectID = "eJf-ua-y0v"; */
+"eJf-ua-y0v.normalTitle" = "找回密码";
+
+/* Class = "UINavigationItem"; title = "退换货管理"; ObjectID = "eQI-yi-4Vb"; */
+"eQI-yi-4Vb.title" = "退换货管理";
+
+/* Class = "UILabel"; text = "店铺地址店铺地址店铺地址店铺地址店铺地址店铺地址店铺地址店铺地址"; ObjectID = "edM-rm-MvN"; */
+"edM-rm-MvN.text" = "店铺地址店铺地址店铺地址店铺地址店铺地址店铺地址店铺地址店铺地址";
+
+/* Class = "UINavigationItem"; title = "常规保养"; ObjectID = "ep7-I0-pdG"; */
+"ep7-I0-pdG.title" = "常规保养";
+
+/* Class = "UILabel"; text = "波箱："; ObjectID = "esS-w5-WuJ"; */
+"esS-w5-WuJ.text" = "波箱：";
+
+/* Class = "UIButton"; normalTitle = "点击添加我的爱车"; ObjectID = "eyy-dd-73k"; */
+"eyy-dd-73k.normalTitle" = "点击添加我的爱车";
+
+/* Class = "UILabel"; text = "版本："; ObjectID = "fBa-9i-IeN"; */
+"fBa-9i-IeN.text" = "版本：";
+
+/* Class = "UILabel"; text = "车架号："; ObjectID = "fwT-Hm-gXs"; */
+"fwT-Hm-gXs.text" = "车架号：";
+
+/* Class = "UINavigationItem"; title = "会员登录"; ObjectID = "fxk-ah-2MQ"; */
+"fxk-ah-2MQ.title" = "会员登录";
+
+/* Class = "UILabel"; text = "电话："; ObjectID = "gol-ME-fG3"; */
+"gol-ME-fG3.text" = "电话：";
+
+/* Class = "UILabel"; text = "发动机后6位数："; ObjectID = "guv-Pb-Krg"; */
+"guv-Pb-Krg.text" = "发动机后6位数：";
+
+/* Class = "UINavigationItem"; title = "我的消息"; ObjectID = "h2I-RK-VxE"; */
+"h2I-RK-VxE.title" = "我的消息";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "hJy-cT-OJd"; */
+"hJy-cT-OJd.text" = "＊";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "hP9-4x-ZLc"; */
+"hP9-4x-ZLc.normalTitle" = "提交";
+
+/* Class = "UINavigationItem"; title = "选择优惠券"; ObjectID = "hSO-7B-Dmu"; */
+"hSO-7B-Dmu.title" = "选择优惠券";
+
+/* Class = "UINavigationItem"; title = "退换货"; ObjectID = "haT-8X-UYX"; */
+"haT-8X-UYX.title" = "退换货";
+
+/* Class = "UILabel"; text = "联系人："; ObjectID = "iC7-wm-ZoG"; */
+"iC7-wm-ZoG.text" = "联系人：";
+
+/* Class = "UILabel"; text = "年款："; ObjectID = "iDK-of-gJL"; */
+"iDK-of-gJL.text" = "年款：";
+
+/* Class = "UILabel"; text = "电话：0756-12345678"; ObjectID = "iQb-KP-stQ"; */
+"iQb-KP-stQ.text" = "电话：0756-12345678";
+
+/* Class = "UILabel"; text = "已行驶："; ObjectID = "j9J-Zt-B6v"; */
+"j9J-Zt-B6v.text" = "已行驶：";
+
+/* Class = "UIBarButtonItem"; title = "全选"; ObjectID = "jS1-ck-mtj"; */
+"jS1-ck-mtj.title" = "全选";
+
+/* Class = "UIButton"; normalTitle = "新用户注册"; ObjectID = "jtg-9a-A9g"; */
+"jtg-9a-A9g.normalTitle" = "新用户注册";
+
+/* Class = "UILabel"; text = "常规保养"; ObjectID = "kRm-eR-Hup"; */
+"kRm-eR-Hup.text" = "常规保养";
+
+/* Class = "UIButton"; normalTitle = "查找配件"; ObjectID = "lKr-kP-WKu"; */
+"lKr-kP-WKu.normalTitle" = "查找配件";
+
+/* Class = "UIButton"; normalTitle = "等待确认"; ObjectID = "luf-Dr-rTU"; */
+"luf-Dr-rTU.normalTitle" = "等待确认";
+
+/* Class = "UINavigationItem"; title = "预约信息"; ObjectID = "mhO-ot-Ee0"; */
+"mhO-ot-Ee0.title" = "预约信息";
+
+/* Class = "UILabel"; text = "品牌："; ObjectID = "moq-hM-YRw"; */
+"moq-hM-YRw.text" = "品牌：";
+
+/* Class = "UILabel"; text = "排量："; ObjectID = "myu-nr-xDm"; */
+"myu-nr-xDm.text" = "排量：";
+
+/* Class = "UIButton"; normalTitle = "选择"; ObjectID = "nJc-xi-VM5"; */
+"nJc-xi-VM5.normalTitle" = "选择";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "nd4-Js-Gag"; */
+"nd4-Js-Gag.text" = "＊";
+
+/* Class = "UINavigationItem"; title = "添加收货地址"; ObjectID = "pEZ-ww-0qE"; */
+"pEZ-ww-0qE.title" = "添加收货地址";
+
+/* Class = "UILabel"; text = "预约描述"; ObjectID = "plT-Rv-6Ly"; */
+"plT-Rv-6Ly.text" = "预约描述";
+
+/* Class = "UINavigationItem"; title = "购物车"; ObjectID = "pzC-Ea-tRM"; */
+"pzC-Ea-tRM.title" = "购物车";
+
+/* Class = "UILabel"; text = "服务项目：aaaaaaaaaaaaaaaaaaaa"; ObjectID = "qWs-WB-Rfo"; */
+"qWs-WB-Rfo.text" = "服务项目：aaaaaaaaaaaaaaaaaaaa";
+
+/* Class = "UILabel"; text = "上次保养公里数："; ObjectID = "qdU-Hi-DJA"; */
+"qdU-Hi-DJA.text" = "上次保养公里数：";
+
+/* Class = "UILabel"; text = "密码："; ObjectID = "qfW-bs-cME"; */
+"qfW-bs-cME.text" = "密码：";
+
+/* Class = "UILabel"; text = "＊"; ObjectID = "qwg-35-Kc1"; */
+"qwg-35-Kc1.text" = "＊";
+
+/* Class = "UILabel"; text = "预约项目："; ObjectID = "rdf-1w-SxP"; */
+"rdf-1w-SxP.text" = "预约项目：";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "rja-0b-tqF"; */
+"rja-0b-tqF.normalTitle" = "T";
+
+/* Class = "UILabel"; text = "单价"; ObjectID = "rmP-y2-Klo"; */
+"rmP-y2-Klo.text" = "单价";
+
+/* Class = "UILabel"; text = "小保养"; ObjectID = "rxf-e3-dbR"; */
+"rxf-e3-dbR.text" = "小保养";
+
+/* Class = "UIButton"; normalTitle = "我要保养"; ObjectID = "sRu-6G-zUu"; */
+"sRu-6G-zUu.normalTitle" = "我要保养";
+
+/* Class = "UINavigationItem"; title = "常规保养"; ObjectID = "uMn-gH-kTn"; */
+"uMn-gH-kTn.title" = "常规保养";
+
+/* Class = "UILabel"; text = "维修店："; ObjectID = "uOS-Qw-pQv"; */
+"uOS-Qw-pQv.text" = "维修店：";
+
+/* Class = "UILabel"; text = "用户名："; ObjectID = "urk-3G-1m0"; */
+"urk-3G-1m0.text" = "用户名：";
+
+/* Class = "UILabel"; text = "时间"; ObjectID = "vEU-nq-YSd"; */
+"vEU-nq-YSd.text" = "时间";
+
+/* Class = "UILabel"; text = "¥200"; ObjectID = "vph-1l-Euy"; */
+"vph-1l-Euy.text" = "¥200";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "vy8-9G-m98"; */
+"vy8-9G-m98.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "此处该有tableview"; ObjectID = "x1y-hM-SFx"; */
+"x1y-hM-SFx.text" = "此处该有tableview";
+
+/* Class = "UINavigationItem"; title = "维修店详情"; ObjectID = "xhi-GS-OGM"; */
+"xhi-GS-OGM.title" = "维修店详情";
+
+/* Class = "UINavigationItem"; title = "注册"; ObjectID = "xwv-MV-XkS"; */
+"xwv-MV-XkS.title" = "注册";
+
+/* Class = "UITabBarItem"; title = "客服"; ObjectID = "xyT-AN-XqI"; */
+"xyT-AN-XqI.title" = "客服";
+
+/* Class = "UINavigationItem"; title = "查找配件"; ObjectID = "yI7-0R-vua"; */
+"yI7-0R-vua.title" = "查找配件";
+
+/* Class = "UINavigationItem"; title = "加油记录"; ObjectID = "yZy-Ne-3zP"; */
+"yZy-Ne-3zP.title" = "加油记录";
+
+/* Class = "UINavigationItem"; title = "添加我的爱车"; ObjectID = "yj1-5s-kPN"; */
+"yj1-5s-kPN.title" = "添加我的爱车";

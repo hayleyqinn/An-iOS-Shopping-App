@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (3.5.1)
+  - BaiduMapKit (3.0.0)
+  - IQKeyboardManager (4.0.6)
+  - Kingfisher (2.6.0)
+  - NVActivityIndicatorView (2.12)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.5.1)
+  - BaiduMapKit
+  - IQKeyboardManager (~> 4.0.3)
+  - Kingfisher (~> 2.6)
+  - NVActivityIndicatorView (from `https://github.com/ninjaprox/NVActivityIndicatorView.git`, branch `swift2.3`)
+
+EXTERNAL SOURCES:
+  NVActivityIndicatorView:
+    :branch: swift2.3
+    :git: https://github.com/ninjaprox/NVActivityIndicatorView.git
+
+CHECKOUT OPTIONS:
+  NVActivityIndicatorView:
+    :commit: ac4325492550b9ec9516e3a9b6e28b2c07faa1c6
+    :git: https://github.com/ninjaprox/NVActivityIndicatorView.git
+
+SPEC CHECKSUMS:
+  Alamofire: 0dfba1184a543e2aa160f4e39cac4e8aba48d223
+  BaiduMapKit: de2a726d5296d6b2dc0e974b683af73153608dcd
+  IQKeyboardManager: c52debb1967799ae7addb98eab0cf328083a874f
+  Kingfisher: d84c5fd176ea86cc7b8aac65fd55feda6f70f130
+  NVActivityIndicatorView: de8be03826726ad99cdfacf7fe09e88cbfeef911
+
+PODFILE CHECKSUM: 23c8228e1fa7094e686e9192d4735fa7e26b7501
+
+COCOAPODS: 1.1.0.beta.2

@@ -1,0 +1,12 @@
+ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
+EMBEDDED_CONTENT_CONTAINS_SWIFT = YES
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/Alamofire" "$PODS_CONFIGURATION_BUILD_DIR/IQKeyboardManager" "$PODS_CONFIGURATION_BUILD_DIR/Kingfisher" "$PODS_CONFIGURATION_BUILD_DIR/NVActivityIndicatorView" "${PODS_ROOT}/BaiduMapKit/BaiduMapKit"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/BaiduMapKit"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = $(inherited) -iquote "$PODS_CONFIGURATION_BUILD_DIR/Alamofire/Alamofire.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/IQKeyboardManager/IQKeyboardManager.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/Kingfisher/Kingfisher.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers" -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/BaiduMapKit"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"sqlite3.0" -l"stdc++.6.0.9" -framework "Alamofire" -framework "BaiduMapAPI_Base" -framework "BaiduMapAPI_Cloud" -framework "BaiduMapAPI_Location" -framework "BaiduMapAPI_Map" -framework "BaiduMapAPI_Radar" -framework "BaiduMapAPI_Search" -framework "BaiduMapAPI_Utils" -framework "CoreGraphics" -framework "CoreLocation" -framework "CoreTelephony" -framework "IQKeyboardManager" -framework "Kingfisher" -framework "NVActivityIndicatorView" -framework "OpenGLES" -framework "QuartzCore" -framework "Security" -framework "SystemConfiguration"
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "COCOAPODS"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}/Pods

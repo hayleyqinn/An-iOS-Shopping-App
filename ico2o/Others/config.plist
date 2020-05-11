@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>url1</key>
+	<string>http://172.17.73.212:3452</string>
+	<key>url</key>
+	<string>http://www.ico2o.cn</string>
+	<key>New item</key>
+	<string>http://www.ico2o.cn</string>
+</dict>
+</plist>
